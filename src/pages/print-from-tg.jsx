@@ -10,7 +10,7 @@ export const PrintFromTelegram = () => {
       </h2>
 
       <img
-        src="src\assets\qr.svg"
+        src="public\qr.svg"
         alt="qr_bot"
         width="400px"
         height="400px"
