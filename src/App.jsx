@@ -24,11 +24,11 @@ const router = createBrowserRouter([
       { path: "enter-code", element: <EnterCodePage /> },
     ],
   },
-]);
+], {basename:'/pet-project_01'});
 export const App = () => {
   return (
     <UserContextProvider>
-      <RouterProvider router={router} />
+      <RouterProvider router={router}/>
     </UserContextProvider>
   );
 };
