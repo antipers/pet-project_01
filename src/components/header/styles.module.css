@@ -6,8 +6,7 @@
   flex-wrap: wrap;
   align-items: center;
   width: 100vw;
-  position: absolute;
-  top: 0;
+  height: 7rem;
 }
 
 .heavy {
