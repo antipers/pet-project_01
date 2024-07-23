@@ -1,0 +1,15 @@
+.root {
+  margin: 0;
+  display: flex;
+  background-color: rgb(240, 99, 50);
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+}
+
+.heavy {
+  font-weight: 700;
+}

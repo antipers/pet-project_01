@@ -1,0 +1,19 @@
+.root {
+  margin: 0;
+  display: flex;
+  background-color: rgb(240, 99, 50);
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+}
+
+.heavy {
+  font-weight: 700;
+}
+
+.nav-secondary {
+  margin: 1rem;
+  padding: 5px;
+}
