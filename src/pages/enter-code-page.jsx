@@ -2,6 +2,7 @@ import { useState } from "react";
 
 export const EnterCodePage = () => {
   const [code, setCode] = useState("");
+  // eslint-disable-next-line no-unused-vars
   const [info, setInfo] = useState([]);
 
   const getInfoAboutFile = async () => {
